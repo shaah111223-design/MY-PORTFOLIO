@@ -36,9 +36,9 @@ export const profileData: ProfileData = {
   },
   socialLinks: {
     github: {
-      url: "", // Insert your GitHub profile URL e.g. "https://github.com/yourusername"
-      isConfigured: false,
-      placeholderLabel: "GitHub Profile (Add in portfolioData.ts)",
+      url: "https://github.com/shaah111223-design",
+      isConfigured: true,
+      placeholderLabel: "GitHub Profile",
     },
     linkedin: {
       url: "", // Insert your LinkedIn profile URL e.g. "https://linkedin.com/in/yourusername"
