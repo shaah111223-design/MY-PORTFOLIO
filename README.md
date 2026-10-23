@@ -56,6 +56,7 @@ ahamad-portfolio/
         ├── Footer.tsx           # Branding, quick links, copyright & contact
         ├── BrandIcons.tsx       # Crisp SVGs for GitHub and LinkedIn
         ├── BackToTop.tsx        # Floating back-to-top button
+        ├── Chatbot.tsx          # 🤖 Interactive AI Portfolio Assistant chatbot widget
         └── PlaceholderModal.tsx # Informative dialog for unconfigured URLs & repositories
 ```
 

@@ -9,6 +9,7 @@ import { CurrentlyLearning } from './components/CurrentlyLearning';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { BackToTop } from './components/BackToTop';
+import { Chatbot } from './components/Chatbot';
 
 export const App: React.FC = () => {
   const [activeSection, setActiveSection] = useState<string>('home');
@@ -65,6 +66,9 @@ export const App: React.FC = () => {
 
       {/* Back to Top floating button */}
       <BackToTop />
+
+      {/* Interactive AI Portfolio Chatbot */}
+      <Chatbot />
     </div>
   );
 };
